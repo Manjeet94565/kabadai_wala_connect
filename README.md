@@ -1,6 +1,6 @@
 # Kabadiwala Connect
 
-Kabadiwala Connect (SIH26229, Team Tech-Nova): a vernacular, offline-first platform connecting informal e-waste collectors with authorised recyclers.
+a vernacular, offline-first platform connecting informal e-waste collectors with authorised recyclers.
 
 ## Folder overview
 
@@ -16,12 +16,10 @@ Kabadiwala Connect (SIH26229, Team Tech-Nova): a vernacular, offline-first platf
 
 | Member | Role |
 | --- | --- |
-| Manjeet | Backend Lead |
+| Manjeet | FULL Backend Lead |
 | Hemant | Collector frontend |
-| Adarsh | PostgreSQL |
 | Aryan | Recycler frontend + AI |
-| Muskan | MySQL + QA |
-| Brijesh | Admin module |
+| Brijesh | Admin module , postgresql / database |
 
 ## Git rules
 
